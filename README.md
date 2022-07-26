@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ramazan</h2>
-<h3 align="center">I'm Computer Engineer, Backend Developer and Frontend Developer!</h3>
+<h3 align="center">I'm Computer Engineer, Jr.Backend Developer and Jr.Frontend Developer!</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot and React etc.**
 
